@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] App displays a reset button on the top left to reset the game (but make no changes to the settings)
+- [X] App displays a reset button on the top left to reset the game (but make no changes to the settings)
 
 The following **additional** features are implemented:
 
@@ -33,4 +33,5 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+It was difficult understanding how to declare variables for the exercises due to still learning how the declaration works, and how to assign the values for any of the variables we are using for the app's output.
