@@ -27,9 +27,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+![Wordle_Walkthrough](https://github.com/user-attachments/assets/3a664cc3-16b5-4725-bd25-17832647c9b8)
 
 ## Notes
 
