@@ -5,7 +5,7 @@ Submitted by: **Marcus Ezell**
 
 **This version of Wordle** is an app that includes settings that allow you to configure how you play the app.
 
-Time spent: **9** hours spent in total
+Time spent: **20** hours spent in total
 
 ## Required Features
 
